@@ -1,4 +1,6 @@
-bool isMoving = false;
+/*
+Arduino script for a robot moving forward and avoiding collisions at 20cm range. Sound alert and distance/warings OLED display
+*/
 
 //OLED Config
 #include <SPI.h>
