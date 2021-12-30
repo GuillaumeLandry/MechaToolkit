@@ -13,7 +13,7 @@
 
 ## Links
 * [DroneBot Workshop - RC Robot Car](https://www.youtube.com/watch?v=BACBNgaCnJU)
-
+* [DroneBot Workshop - H-Bridge connection](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
 
 ## Bill of Materials
 * [Infrared Night Vision Camera Module for Raspberry Pi](https://www.amazon.ca/gp/product/B07WMY1VQ6/ref=ox_sc_act_title_1?smid=A1ZS0R4YE7AG81&psc=1)
