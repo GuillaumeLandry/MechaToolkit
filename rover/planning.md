@@ -8,6 +8,7 @@
 * H-Bridge
 * Wheels
 * OLED Display
+* Arduino UNO
 * 
 
 ## Links
