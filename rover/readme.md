@@ -1,4 +1,22 @@
 # Rover
-Robot avoiding collision with sonar and OLED display. When it comes within 20cm range of an obstacle, it stops, goes backwards, turns left, then goes forward again until the next obstacle. RC receiver and camera motor controlled mount are displayed on the robot for future improvements.
 
-Run Robot.ino sketch for full robot functionalities. Otherwise, independent script for OLED display with sonar is also available for independent use.
+<img src="./assets/rover.jpg" alt="Rover (Stage 1)" style="width:400px; display:block; margin-left:auto; margin-right:auto;"/>
+
+## Components
+* RC controller / receiver
+* Servo motors
+* H-Bridge
+* Wheels
+* OLED Display
+* Arduino UNO
+
+## Links
+* [DroneBot Workshop - RC Robot Car](https://www.youtube.com/watch?v=BACBNgaCnJU)
+* [DroneBot Workshop - H-Bridge connection](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)
+* [Smart Rover Guide (2h)](https://www.youtube.com/watch?v=paPXfGOhqfo)
+
+## Bill Of Materials (Not bought yet)
+* Wifi telemetry module (MAVLink WiFi Bridge)
+* Power Module (split)
+* Webcam USB
+*  
